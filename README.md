@@ -19,4 +19,4 @@ Conception d’une application web ludique qui aide les utilisateurs à augmente
 ![Screenshot](./assets/img/Screenshot.PNG)
 
 ## 🔗 Liens vers la démo
-
+https://maeva-rodrigues.github.io/AzerType_App/
